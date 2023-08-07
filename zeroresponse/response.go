@@ -1,4 +1,4 @@
-package handler
+package zeroresponse
 
 import (
 	"github.com/jindaoyiwu/cyz-gogo/xerr"
